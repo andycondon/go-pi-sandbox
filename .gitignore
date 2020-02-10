@@ -1,0 +1,3 @@
+/cmd/no-cgo/no-cgo
+/vendor/
+.DS_Store
