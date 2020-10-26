@@ -1,3 +1,6 @@
 /cmd/no-cgo/no-cgo
 /vendor/
+.idea
 .DS_Store
+
+cmd/go-pi-sandbox/go-pi-sandbox
