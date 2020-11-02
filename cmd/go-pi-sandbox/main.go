@@ -47,7 +47,7 @@ func main() {
 	defer bus.Close()
 
 	dev := &i2c.Dev{Addr: 0x1a, Bus: bus}
-	read := make([]byte, 5)
+	read := make([]byte, 3)
 
 	if err := dev.Tx(write, read); err != nil {
 		log.Fatalf("%v", err)
