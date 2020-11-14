@@ -4,3 +4,5 @@
 .DS_Store
 
 cmd/go-pi-sandbox/go-pi-sandbox
+
+cmd/avoid-obstacles/avoid-obstacles
